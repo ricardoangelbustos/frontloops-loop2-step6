@@ -157,6 +157,9 @@ body{
     border: 2px solid #de6e46;
     border-radius: 20px;
 }
+.circle:hover{
+    cursor: pointer;
+}
 @media (max-width: 1440px) {
     .container{
         width: 50%;
